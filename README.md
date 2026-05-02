@@ -82,7 +82,7 @@ A modular and extensible Retrieval-Augmented Generation (RAG) architecture desig
 - Answer sent to `stdout` as: `LLM Answer: ...`
 
 ##  Architecture Diagram
-
+![Flow Diagram](https://raw.githubusercontent.com/Rockyhermit/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG/main/flow.png)
 ---
 
 ##  Full Summary Table
