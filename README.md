@@ -1,10 +1,5 @@
 #  ResearchRAG: End-to-End Scientific Research Assistant using RAG & LLMs
 
-##  Authors
-#### Ashruj Gautam
-
-#### Pratheek Tirunagari
-
 ## Description
 
 A modular and extensible Retrieval-Augmented Generation (RAG) architecture designed for automated scientific document comprehension and domain-specific question answering. The pipeline integrates hierarchical PDF decomposition, fine-grained entity and relation extraction, citation graph analytics, semantically-aware vector retrieval via hybrid embedding strategies, and local LLM-driven response synthesis, enabling end-to-end reasoning over scholarly corpora.
@@ -87,7 +82,6 @@ A modular and extensible Retrieval-Augmented Generation (RAG) architecture desig
 - Answer sent to `stdout` as: `LLM Answer: ...`
 
 ##  Architecture Diagram
-![Flow Diagram](https://raw.githubusercontent.com/Pratheek-Tirunagari-and-Ashruj-Gautam/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG/main/flow.png)
 
 ---
 
